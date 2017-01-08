@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:text="@string/new_button1"
 
-        android:id="@+id/button"
+        android:id="@+id/firstbutton"
         android:layout_marginTop="41dp"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
